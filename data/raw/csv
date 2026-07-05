@@ -1,0 +1,3 @@
+Note: The dataset is not included in this repository because of its large size, which exceeds GitHub's file size limits. Download the dataset from the link below and extract all CSV files into the data/raw/ folder before training or running the application.
+
+Kaggle Dataset: https://www.kaggle.com/datasets/vuxminhan/home-credit-default-risk
